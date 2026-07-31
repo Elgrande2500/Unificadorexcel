@@ -39,6 +39,3 @@ Para ejecutar el script de forma segura, ordenamos a uv que descargue una versi�
 
 * Error ModuleNotFoundError: No module named '_ctypes' o fallos SSL: Ocurre si olvidas incluir el parámetro --python 3.12. Asegúrate de usar el comando de ejecución completo detallado arriba.
 * Comando uv no encontrado: Recuerda reiniciar tu terminal o abrir una nueva ventana después de instalar uv.
-
-------------------------------
-¿Te gustaría agregar alguna sección extra al README? Por ejemplo, podemos detallar qué hace exactamente el script con los archivos de Excel o dónde debe colocar el usuario los archivos de entrada.
